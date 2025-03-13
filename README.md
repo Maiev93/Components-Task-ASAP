@@ -2,7 +2,7 @@
 
 ## Порядок выполнения задания:
 - Открыть [репозиторий](https://github.com/rolling-scopes-school/clean-code-s1e1), посмотреть реализацию, прочитать требования к функционалу приложения. Забрать из репозитория файлы .html и .css, а также картинку и иконку. Использовать их при создании приложения.
-- Реализовать на Vue весь описанный функционал приложения.
+- Реализовать на Vue весь описанный функционал приложения. Сделать упор на компонентный подход.
 - Заняться рефакторингом html и css в соответствии с [базовыми правилами](https://github.com/rolling-scopes-school/tasks/blob/master/stage1/modules/clean-code/materials/html-and-css.md) и [продвинутыми правилами](https://github.com/rolling-scopes-school/tasks/blob/master/stage1/modules/clean-code/materials/html-and-css-extended.md)
 
 ### Опциональные задания: 
